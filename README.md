@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Fellas programmer 👋 I'm Muhammad Dicky Isra, but you can call me Diky for shorthand
 
 <!--
 **DaDecky/dadecky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
