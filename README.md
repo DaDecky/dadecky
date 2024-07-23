@@ -1,4 +1,5 @@
-## Hello Fellas programmer 👋 I'm Muhammad Dicky Isra, but you can call me Diky for shorthand
+## Hello Fellas programmer 👋 I'm Diky
+I am sophomore student majoring informatics/computer science at Institut Teknologi Bandung
 
 <!--
 **DaDecky/dadecky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
