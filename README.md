@@ -1,6 +1,9 @@
 ## Hello Fellas Programmer 👋 I'm Diky
 I am sophomore student majoring informatics/computer science at Institut Teknologi Bandung
 
+- 🌱 I’m currently learning Web Development and Drone Development
+- 📫 How to reach me: You can hit up one of my socials (preferebably instagram)
+
 <!--
 **DaDecky/dadecky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
