@@ -1,5 +1,5 @@
 ## Hello Fellas Programmer 👋 I'm Diky
-I am sophomore majoring in informatics/computer science at Institut Teknologi Bandung
+I am a sophomore majoring in informatics/computer science at Institut Teknologi Bandung
 
 - 🌱 I’m currently learning Web Development and Drone Development
 - 📫 How to reach me: You can hit up one of my socials (preferebably instagram)
