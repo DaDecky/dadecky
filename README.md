@@ -2,7 +2,7 @@
 I am a sophomore majoring in informatics/computer science at Institut Teknologi Bandung
 
 - 🌱 I’m currently learning Web Development and Drone Development
-- 📫 How to reach me: You can hit up one of my socials (preferebably instagram)
+- 📫 How to reach me: You can hit up one of my socials (preferably instagram)
 
 <!--
 **DaDecky/dadecky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
