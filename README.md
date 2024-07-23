@@ -1,4 +1,4 @@
-## Hello Fellas programmer 👋 I'm Diky
+## Hello Fellas Programmer 👋 I'm Diky
 I am sophomore student majoring informatics/computer science at Institut Teknologi Bandung
 
 <!--
