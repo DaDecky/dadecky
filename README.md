@@ -1,20 +1,42 @@
-## Hello Fellas Programmer 👋 I'm Diky
-I am a sophomore majoring in informatics/computer science at Institut Teknologi Bandung
+# Muhammad Dicky Isra
 
-- 🌱 I’m currently learning Web Development and Drone Development
-- 📫 How to reach me: You can hit up one of my socials (preferably instagram)
+**Software Engineer & Systems Enthusiast** based in Bandung, Indonesia.  
+Informatics Engineering undergraduate at **Institut Teknologi Bandung (ITB)**.
 
-<!--
-**DaDecky/dadecky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building across the stack — from low-level Linux utilities and embedded bridges to high-throughput Go microservices and modern React/Next.js interfaces.
 
-Here are some ideas to get you started:
+[Website](https://disra.net) · [LinkedIn](https://linkedin.com/in/mdickyisra) · [Email](mailto:mdikiisra98@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚡ What I Do
+
+- **Vice CTO — DevOps Lead** at [Inkubator IT HMIF ITB](https://disra.net) — Overseeing system architecture, VPS orchestration, and CI/CD pipelines across 10+ client projects.
+- **Software Engineer** at [PT HIT International](https://disra.net) — Building educational platforms, desktop apps (Electron + Blockly + Arduino CLI), and Python/Next.js services.
+- **Former Robotics Control** at Aksantara ITB — Autonomous flight control algorithms (ROS, OpenCV, C++) for VTOL quadcopters.
+
+---
+
+### 🛠️ Selected Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[AIRA](https://aira.disra.net)** | 🥉 *3rd Place Hackathon IFEST 2026* — Accessibility-focused AI browser assistant simplifying complex web forms & navigation. | `Next.js` `TypeScript` `AI` |
+| **[codex-transcribe](https://github.com/DaDecky/codex-transcribe)** | Standalone, low-latency Go transcription proxy with review-before-send dictation integration. | `Go` `Speech-to-Text` `CLI` |
+| **[elan-04f3-0c4b-fingerprint-led](https://github.com/DaDecky/elan-04f3-0c4b-fingerprint-led)** | Userspace LED bridge and daemon for ELAN fingerprint hardware on Linux. | `C` `Linux USB / Kernel` |
+| **[Template-Proposal-dan-TA-IF-ITB-Typst](https://github.com/DaDecky/Template-Proposal-dan-TA-IF-ITB-Typst)** | Modern ITB undergraduate thesis template built in Typst with LaTeX export support. | `Typst` `LaTeX` |
+
+---
+
+### 🧰 Toolkit & Environment
+
+- **Languages:** Go, TypeScript / JavaScript, Python, C/C++, SQL
+- **Web & Frameworks:** Next.js, React, Gin (Golang), Express, Tailwind CSS, TanStack Query
+- **Systems & Infra:** Linux (Omarchy / Arch), Docker, Caddy, Nginx, PostgreSQL, GitHub Actions, ROS
+- **Hardware & Desktop:** Electron, Arduino / SerialPort, Embedded Linux
+
+---
+
+<p align="center">
+  <sub>Crafted with focus. Check out more notes and work on <a href="https://disra.net">disra.net</a></sub>
+</p>
