@@ -12,12 +12,12 @@ Building across the stack — from low-level Linux utilities and embedded bridge
 ### ⚡ What I Do
 
 - **Vice CTO — DevOps Lead** at [Inkubator IT HMIF ITB](https://disra.net) — Overseeing system architecture, VPS orchestration, and CI/CD pipelines across 10+ client projects.
-- **Software Engineer** at [PT HIT International](https://disra.net) — Building educational platforms, desktop apps (Electron + Blockly + Arduino CLI), and Python/Next.js services.
+- **Software Engineer** at [PT HIT International](https://disra.net) — Building AI-based educational platforms, desktop apps (Electron + Blockly + Arduino CLI), and Python/Next.js services.
 - **Former Robotics Control** at Aksantara ITB — Autonomous flight control algorithms (ROS, OpenCV, C++) for VTOL quadcopters.
 
 ---
 
-### 🛠️ Selected Projects
+### 🛠️ Checkout My Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
