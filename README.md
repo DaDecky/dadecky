@@ -28,6 +28,15 @@ Building across the stack — from low-level Linux utilities and embedded bridge
 
 ---
 
+### 🌐 Open Source & Contributions
+
+Actively contributing to AI developer infrastructure, Linux tooling, and open-source utilities:
+
+- **[9router](https://github.com/DaDecky/9router)** — Multi-provider AI routing gateway, load-balancing & token optimization for coding agents (Codex, Claude Code, Cursor).
+- **Linux & Userspace Ecosystem** — Hacking on Linux hardware utilities ([elan-fingerprint-led](https://github.com/DaDecky/elan-04f3-0c4b-fingerprint-led)), dictation tools ([codex-transcribe](https://github.com/DaDecky/codex-transcribe)), and [Omarchy](https://github.com/DaDecky/omarchy) modules.
+
+---
+
 ### 🧰 Toolkit & Environment
 
 - **Languages:** Go, TypeScript / JavaScript, Python, C/C++, SQL
