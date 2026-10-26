@@ -47,5 +47,5 @@ Actively contributing to AI developer infrastructure, Linux tooling, and open-so
 ---
 
 <p align="center">
-  <sub>Crafted with focus. Check out more notes and work on <a href="https://disra.net">disra.net</a></sub>
+  <sub>Check out more notes and work on <a href="https://disra.net">disra.net</a></sub>
 </p>
